@@ -1,0 +1,5 @@
+INSERT INTO [dbo].[Personel] ([tc], [personelName], [personelSurname], [personelTelNo]) VALUES (12345675, N'Ahmet', N'Kuş', N'123456789')
+INSERT INTO [dbo].[Personel] ([tc], [personelName], [personelSurname], [personelTelNo]) VALUES (12345676, N'İlker', N'Savaş', N'123456777')
+INSERT INTO [dbo].[Personel] ([tc], [personelName], [personelSurname], [personelTelNo]) VALUES (12345677, N'Hakan', N'Yılmaz', N'123456888')
+INSERT INTO [dbo].[Personel] ([tc], [personelName], [personelSurname], [personelTelNo]) VALUES (12345678, N'Ayşe', N'Yılmaz', N'132465897')
+INSERT INTO [dbo].[Personel] ([tc], [personelName], [personelSurname], [personelTelNo]) VALUES (12345679, N'Fatma', N'Durmaz', N'123467894')

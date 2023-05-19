@@ -1,0 +1,5 @@
+INSERT INTO [dbo].[Transportation] ([driverTc], [carPlate], [carTakenDate], [transportedItem]) VALUES (12345675, N'35AAA10', N'2023-01-01 00:00:00', N'Toys')
+INSERT INTO [dbo].[Transportation] ([driverTc], [carPlate], [carTakenDate], [transportedItem]) VALUES (12345676, N'35AAA10', N'2023-01-02 00:00:00', N'Table')
+INSERT INTO [dbo].[Transportation] ([driverTc], [carPlate], [carTakenDate], [transportedItem]) VALUES (12345676, N'35AAA11', N'2023-01-03 00:00:00', N'Chair')
+INSERT INTO [dbo].[Transportation] ([driverTc], [carPlate], [carTakenDate], [transportedItem]) VALUES (12345677, N'35AAA12', N'2023-01-04 00:00:00', N'Carpet')
+INSERT INTO [dbo].[Transportation] ([driverTc], [carPlate], [carTakenDate], [transportedItem]) VALUES (12345678, N'35AAA13', N'2023-01-02 00:00:00', N'Table')

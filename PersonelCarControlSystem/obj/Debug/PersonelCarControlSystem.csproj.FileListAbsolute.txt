@@ -1,0 +1,17 @@
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\bin\Debug\PersonelCarControlSystem.exe.config
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\bin\Debug\PersonelCarControlSystem.exe
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\bin\Debug\PersonelCarControlSystem.pdb
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\bin\Debug\MySql.Data.dll
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\bin\Debug\System.Memory.dll
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\bin\Debug\System.Buffers.dll
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\obj\Debug\PersonelCarControlSystem.csproj.AssemblyReference.cache
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\obj\Debug\PersonelCarControlSystem.Form1.resources
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\obj\Debug\PersonelCarControlSystem.Properties.Resources.resources
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\obj\Debug\PersonelCarControlSystem.csproj.GenerateResource.cache
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\obj\Debug\PersonelCarControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\obj\Debug\PersonelCarControlSystem.csproj.CopyComplete
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\obj\Debug\PersonelCarControlSystem.exe
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\obj\Debug\PersonelCarControlSystem.pdb
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\bin\Debug\Company.mdf
+C:\Users\ilker\source\repos\PersonelCarControlSystem\PersonelCarControlSystem\bin\Debug\Company_log.ldf
